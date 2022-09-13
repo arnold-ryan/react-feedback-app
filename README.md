@@ -1,6 +1,6 @@
-#React Feedback App
+# React Feedback App
 
-##Functionalities
+## Functionalities
 
 - Add feedback
 - Edit feedback
